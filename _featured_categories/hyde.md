@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hyde
+title: 테스트
 slug: hyde
 menu: true
 order: 2
